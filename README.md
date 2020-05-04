@@ -62,15 +62,15 @@ Reemplaza `XXXXXXXXXXXXXXXXXX` por el **Client ID** del Discord Bot.
 ## Uso
 | Comando | Descripción
 |---------|-------------|
-| `y!play` | Reproduce o añade a cola una canción de Youtube o SoundCloud. |
-| `y!pausa` | Pausar la canción actual. |
-| `y!resume` | Resumir la canción pausada. |
-| `y!cola` | Ver lista de canciones que están en cola de reproducción. |
-| `y!skip` | Saltar canción que se está reproduciendo. |
-| `y!salir` | Sacar el bot del canal de voz. |
-| `y!servidores` | Cantidad de servidores que ha sido invitado el bot. |
-| `y!comandos` | Lista de comandos. |
+| `..play` | Reproduce o añade a cola una canción de Youtube o SoundCloud. |
+| `..pausa` | Pausar la canción actual. |
+| `..resume` | Resumir la canción pausada. |
+| `..cola` | Ver lista de canciones que están en cola de reproducción. |
+| `..skip` | Saltar canción que se está reproduciendo. |
+| `..salir` | Sacar el bot del canal de voz. |
+| `..servidores` | Cantidad de servidores que ha sido invitado el bot. |
+| `..comandos` | Lista de comandos. |
 ##
 
 ## Sugerencias, preguntas o problemas
-Si tienes sugerencias, preguntas o algún problema, no dudes en escribeme en [@Yizack](https://github.com/Yizack/yeezac/issues/new).
+https://discord.gg/ndFJcRP
