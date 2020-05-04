@@ -1,7 +1,4 @@
-[![Build Status](https://img.shields.io/travis/Yizack/yeezac/master.svg?style=flat-square)](https://travis-ci.org/Yizack/yeezac)
-[![Dependencies Status](https://david-dm.org/yizack/yeezac/status.svg?style=flat-square)](https://david-dm.org/yizack/yeezac)
-# Yeezac
-Bot de música para Discord con Node.js
+
 
 ## Requerimientos Generales
 - Crear [Discord Bot](https://discordapp.com/developers/applications/)
